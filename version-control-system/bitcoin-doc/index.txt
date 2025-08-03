@@ -1,1 +1,14 @@
 BITCOIN
+
+Bitcoin es una moneda digital descentralizada creada en 2009 por una persona o grupo bajo 
+el seudónimo de Satoshi Nakamoto. A diferencia de las monedas tradicionales, 
+no está controlada por ningún gobierno o institución financiera. 
+En su lugar, funciona mediante una red peer-to-peer (entre pares) donde las transacciones 
+se verifican y registran en un libro público llamado blockchain.
+
+El funcionamiento de Bitcoin se basa en una tecnología criptográfica que garantiza la 
+seguridad y la integridad de las transacciones. Cada bloque en la cadena contiene un 
+conjunto de transacciones, y una vez que es validado por los mineros (usuarios que usan poder computacional para resolver 
+problemas matemáticos), se añade de forma permanente al historial de la red. 
+
+Esta estructura hace que las transacciones sean transparentes, verificables y prácticamente imposibles de modificar.
