@@ -1,0 +1,12 @@
+Proporciona una explicación detallada en un archivo .txt de cómo cocinar un huevo.
+
+1) Buscar un sartén anti-deslizante.
+2) Colocar el sartén sobre la cocina y agregar aceite adentro.
+3) Calentar el sartén a temperatura media sobre la cocina durante 3-4 minutos.
+4) Buscar un huevo en la refrigeradora.
+5) Romperlo suavemente y luego depositarlo sobre el sartén caliente.
+6) Agregar pimienta y una pizca de sal.
+7) Dejar que el huevo se cocine sobre el sartén durante 5 minutos.
+8) Utilizar una espátula para extraer el huevo del sartén.
+9) Apaga la cocina y aparta el sartén.
+10) Colocarlo sobre un plato limpio.
