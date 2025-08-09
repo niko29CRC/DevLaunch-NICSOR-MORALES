@@ -17,6 +17,10 @@ function getRandomNumber() {
   // Cuerpo del correo
 }
 
-// Snake
+// Snake case
 const is_countable = "no"
 
+/* 
+    Este es utilizado para comentarios extensos,
+    para una funcionalidad más compleja o detallada 
+*/
