@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/niko29CRC/DevLaunch-NICSOR-MORALES/issues"
   },
-  "homepage": "https://github.com/niko29CRC/DevLaunch-NICSOR-MORALES#readme"
+  "homepage": "https://github.com/niko29CRC/DevLaunch-NICSOR-MORALES#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
