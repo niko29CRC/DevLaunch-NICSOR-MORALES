@@ -32,5 +32,5 @@ console.log(`
      Total Purchase: ${currencySymbol} ${totalPurchase} \n
      Received Payment: ${currencySymbol} ${receivedPayment} \n
      
-     MoneyBack: ${moneybackCustomer}
+     MoneyBack: ${moneyback}
 `)
