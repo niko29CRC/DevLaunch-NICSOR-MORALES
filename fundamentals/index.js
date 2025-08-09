@@ -24,3 +24,15 @@ const is_countable = "no"
     Este es utilizado para comentarios extensos,
     para una funcionalidad más compleja o detallada 
 */
+
+// Variable con valor indefinido
+var test
+console.log(test)
+
+var programName = "DEVLAUNCH"
+
+console.log(programName)
+
+programName = "DevLaunch Eve"
+
+console.log(programName)
