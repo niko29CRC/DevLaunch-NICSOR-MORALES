@@ -36,3 +36,8 @@ console.log(programName)
 programName = "DevLaunch Eve"
 
 console.log(programName)
+
+const amIHappy = true
+const amIEatingPizza = true
+
+console.log("Result", amIHappy == amIEatingPizza)
