@@ -41,3 +41,31 @@ const amIHappy = true
 const amIEatingPizza = true
 
 console.log("Result", amIHappy == amIEatingPizza)
+
+// Ternary operator
+const message2 = grade <= 70 ? "PASASTE" : "REPROBASTE"
+
+// Conditionals
+if (true) {
+  // statement
+} else {
+  // false
+}
+
+switch (option) {
+   case 1:
+      //statement
+      break;
+   case 2:
+     //statement
+      break;
+   case 3:
+     //statement
+      break;
+   default:
+      //statement
+      break;
+}
+
+
+
