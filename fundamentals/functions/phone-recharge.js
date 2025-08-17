@@ -1,4 +1,5 @@
 const prompt = require('prompt-sync')();
+
 const MIN_RECHARGE = 20
 const MAX_RECHARGE = 80
 const MIN_MONTHS_DURATION = 12
