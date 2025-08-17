@@ -4,7 +4,6 @@ correspondiente a la condición cumplida.
   */
 
 const prompt = require('prompt-sync')();
-
 const inputNumber = parseFloat(prompt("Digite un número => "))
 
 function isValidNumber(pInput) {
